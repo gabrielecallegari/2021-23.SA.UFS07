@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/ITSRizzoli/2021-23.SA.UFS07/compare/v0.0.3...v0.0.5) (2022-04-26)
+
+
+### Features
+
+*  readme init ([47d6301](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/47d6301a15264b2d12bff820297554f5cf4dd284))
+* add convetional commits vscode extension to gitpod ([a138087](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/a13808708f30550d8fab241a04627edbabb1e5b2))
+* branch switch readme ([049b576](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/049b576a0d0b90095c3677b97a94581d68145369))
+* discard all changes ([84fc919](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/84fc919e0a3bf85ddb78d1d67bb4e90cfe758dfa))
+* first convetional commits ([ff47f1d](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/ff47f1d57bf57f580e5e33041db20278b5cd0766))
+* gh fork ([8794d5c](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/8794d5cf969c7747081f01d62e8e1c92ce90b5bb))
+* git lens command palette ([05bdca1](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/05bdca1aaf67cdb462950008843d557b05db0cc5))
+* navigate between revisions ([6028e36](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/6028e3653c266a154a6abff232b57139bc492a1f))
+* see the diff between staging area and the local repo ([2053c3e](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/2053c3e40e49d80c35b8306276acf2cd6ab676b4))
+* stage a single hunk directly in the editor ([445b890](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/445b8909c7d156facfdaa4a071bb1c4af1c34bf7))
+* stage hunk from diff ([4599554](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/4599554e39066f3da95bd059bbaea946b2c0a72b))
+* stage single hunk ([b733f13](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/b733f131b3c4cad1eb76f94c12d17522410f392c))
+* switch back ([96abf13](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/96abf13acee941a0d07472179cd489eea1ec0778))
+* switch done readme ([7368b0f](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/7368b0f10e34889d788b8edacd038cd6049738cd))
+* unstage a change ([a15a815](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/a15a815c4a6420b9c29aa122d89055f496e18a02))
+* **vanilla-html:** Creata struttura cartelle ([c792b91](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/c792b91c3ca0126e34017b5ec2481e4b9164777e))
+* **vanilla-html:** rebased nuovo mio sito ([f27bb51](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/f27bb519aa790609230a4e258c4d8ae043ae7dfa))
+
+
+### Bug Fixes
+
+* next step for navigate files between revisions ([d8e97c1](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/d8e97c1c3179f0da4c0c62ecb8c9211b60c6584d))
+* remove release-please config ([2547137](https://github.com/ITSRizzoli/2021-23.SA.UFS07/commit/2547137e7a978bf9c48cb38508433172a8972214))
+
 ### [0.0.4](https://github.com/ITSRizzoli/2021-23.SA.UFS07/compare/v0.0.3...v0.0.4) (2022-04-25)
 
 
