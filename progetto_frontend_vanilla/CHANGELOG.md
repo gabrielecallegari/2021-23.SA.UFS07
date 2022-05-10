@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/v1.5.0...v1.6.0) (2022-05-10)
+
+
+### Features
+
+* added color ([59aaf0e](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/59aaf0e281e59d67c2f98b780696e74199689f15))
+
 ## [1.5.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/v1.4.1...v1.5.0) (2022-05-10)
 
 
