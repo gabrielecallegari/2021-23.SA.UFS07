@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/v1.2.0...v1.3.0) (2022-05-10)
+
+
+### Features
+
+* added public url ([fe2ab15](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/fe2ab155a1b642247e5dc7a5ee6be1d6e0516e09))
+* added surge secrets ([9119cbf](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/9119cbf462e76ed6eee6bd57250d0c8756599ff9))
+
 ## [1.2.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/v1.1.0...v1.2.0) (2022-05-10)
 
 
