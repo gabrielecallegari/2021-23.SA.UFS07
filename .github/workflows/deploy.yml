@@ -1,0 +1,22 @@
+name: Deploy on Surge.sh
+on:
+  push:
+    tags:
+      - v.** # comment this to run on every push for debuggin purposes
+jobs:
+  build:
+      uses: ./.github/workflows/github-actions-demo.yml
+  deploy:
+    runs-on: ubuntu-latest
+    needs: [build]
+    steps:
+      - name: Download a single artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: artefatto
+          path: dist
+      - name: List files in the repository
+        run: |
+          ls -la
+          ls -la dist
+          cat dist/CHANGELOG.md
