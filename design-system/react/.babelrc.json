@@ -1,5 +1,8 @@
 {
   "env": {
+    "production":{
+      
+    },
     "development":{
       "sourceType": "unambiguous",
       "presets": [
