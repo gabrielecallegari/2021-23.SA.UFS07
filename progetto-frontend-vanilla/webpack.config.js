@@ -35,7 +35,7 @@ module.exports = {
                 loader: require.resolve("babel-loader"),
             },
             {
-                test: /\.css$/,
+                test: /\.css$/, 
                 use: [
                     "style-loader",
                     {
