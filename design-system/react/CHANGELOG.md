@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/1.2.0...1.9.0) (2022-05-24)
+
+
+### Features
+
+* added deploy-ds ([3dc3a7c](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/3dc3a7c7b2af82bc4d6a8830a6d3087c7877b479))
+* passo 3 ([16a21bd](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/16a21bd17243a9dafc63590317893389f46749fa))
+* portato alla pari con il prof ([d579a6f](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/d579a6fe3543cdb6c1d75565501aa0f9ace77445))
+* step 2 deploy-ds ([28eff70](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/28eff707ddc0667cc6d79221b5c883316536fdb3))
+
 ## 1.2.0 (2022-05-20)
 
 
