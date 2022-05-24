@@ -31,4 +31,4 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           echo "We'll publish the ${{ env.RELEASE_VERSION }} package version on NPM"
-          npm publish --tag ${{ env.RELEASE_VERSION }}
+          npm publish --tag ${{ env.RELEASE_VERSION }} 
