@@ -38,6 +38,12 @@ jobs:
         run: |
           npm install
           npm run build
+          npm run build-umd
+          cp package.json dist/package.json
+          cp package-lock.json dist/package-lock.json
+          cp CHANGELOG.md dist/CHANGELOG.md
+          cp README.md dist/README.md
+          cp .npmrc dist/.npmrc
       - name: Chromatic design-system-react
         working-directory: design-system/react
         env:

@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "chromatic": "^6.5.4"
+  }
+}
