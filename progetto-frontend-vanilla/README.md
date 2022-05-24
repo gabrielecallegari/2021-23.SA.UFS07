@@ -10,6 +10,12 @@
 
 `npm run dev` to start a local dev server with hot reload on http://localhost:900
 
-# Public URL
+## Public URL
 
-https://voiceless-silk.surge.sh/
+https://https://overrated-amount.surge.sh/
+
+## NPM install to setup a simple react app
+
+`npm install react react-dom`
+
+`npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader`
