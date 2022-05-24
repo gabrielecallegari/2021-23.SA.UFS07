@@ -8,6 +8,49 @@
     <script src="https://unpkg.com/react@16.14.0/umd/react.production.min.js"></script>
     <script src="https://unpkg.com/react-dom@16.13.0/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
+    <script> 
+    (function (global, factory) {
+  if (typeof define === "function" && define.amd) {
+    define(["exports", "react", "prop-types"], factory);
+  } else if (typeof exports !== "undefined") {
+    factory(exports, require("react"), require("prop-types"));
+  } else {
+    var mod = {
+      exports: {}
+    };
+    factory(mod.exports, global.React, global.propTypes);
+    global.Button = mod.exports;
+  }
+})(typeof globalThis !== "undefined" ? globalThis : typeof self !== "undefined" ? self : this, function (_exports, _react, _propTypes) {
+  "use strict";
+
+  Object.defineProperty(_exports, "__esModule", {
+    value: true
+  });
+  _exports.Button = void 0;
+  _react = _interopRequireDefault(_react);
+  _propTypes = _interopRequireDefault(_propTypes);
+
+  function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
+
+  /**
+   * Primary UI component for user interaction
+   */
+  var Button = function Button(_ref) {
+    var label = _ref.label,
+        onClick = _ref.onClick;
+    return /*#__PURE__*/_react["default"].createElement("button", {
+      onClick: onClick,
+      type: "button"
+    }, label);
+  };
+
+  _exports.Button = Button;
+  Button.defaultProps = {
+    onClick: undefined
+  };
+});
+    </script>
   </head>
 
   <body>
@@ -18,7 +61,10 @@
         class Hello extends React.Component {
             render() {
                 return (
+                    <div>
                     <div>{`toWhat: ${this.props.toWhat}`}</div>
+                      <Button.Button label="ciao" />
+                    </div>
                 );
             }
         }
@@ -28,6 +74,7 @@
             <Hello toWhat={'prop value'} />,
             reactContainer
         );
+        
     </script>
   </body>
 </html>
