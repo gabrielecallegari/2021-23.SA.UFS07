@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.7](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.10.6...ds1.10.7) (2022-05-27)
+
+
+### Bug Fixes
+
+* added babel ([99f8cf9](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/99f8cf99df82c859598bd005fa3d4983e3c078a7))
+
 ### [1.10.6](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.10.5...ds1.10.6) (2022-05-27)
 
 ### [1.10.5](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.10.4...ds1.10.5) (2022-05-27)
