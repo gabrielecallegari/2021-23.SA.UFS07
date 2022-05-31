@@ -93,7 +93,7 @@ module.exports = {
             scriptLoading: "blocking",
             templateParameters: {
                 packageVersion: `ver ${process.env['PACKAGE_VERSION']}` || '',
-                designSystemVersion: `\nds ${process.env['DESIGN_SYSTEM_VERSION']}` || '',
+                designSystemVersion: `ds ${process.env['DESIGN_SYSTEM_VERSION']}` || '',
             }
         })
     ],
