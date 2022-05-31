@@ -1,6 +1,6 @@
 {
   "name": "1-devops-with-nodejs",
-  "version": "1.5.4",
+  "version": "1.6.0",
   "engines": {
     "npm": "8.5.5",
     "node": "16.15.0"
@@ -10,7 +10,6 @@
     "build": "webpack build --mode production",
     "dev": "webpack serve --mode development",
     "release": "standard-version && git push --follow-tags origin master"
-    
   },
   "author": "",
   "license": "ISC",
