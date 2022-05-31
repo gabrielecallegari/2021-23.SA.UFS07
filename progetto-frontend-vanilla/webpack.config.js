@@ -92,8 +92,8 @@ module.exports = {
             inject: "body",
             scriptLoading: "blocking",
             templateParameters: {
-                packageVersion: `v${process.env['PACKAGE_VERSION']}` || '',
-                designSystemVersion: `ds${process.env['DESIGN_SYSTEM_VERSION']}` || '',
+                packageVersion: `ver ${process.env['PACKAGE_VERSION']}` || '',
+                designSystemVersion: `ds ${process.env['DESIGN_SYSTEM_VERSION']}` || '',
             }
         })
     ],
