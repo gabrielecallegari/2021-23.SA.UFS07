@@ -37,8 +37,10 @@ jobs:
         working-directory: progetto-frontend-vanilla
         run: |
           npm install
-          PACKAGE_VERSION=`cat package.json | jq -r '.version'`
-          DESIGN_SYSTEM_VERSION=`cat package.json | jq -r '.dependencies["test-1-callegari"]' | cut -c2-`
+          export PACKAGE_VERSION=`cat package.json | jq -r '.version'`
+          echo $PAKAGE_VERSION
+          export DESIGN_SYSTEM_VERSION=`cat package.json | jq -r '.dependencies["test-1-callegari"]' | cut -c2-`
+          echo $DESIGN_SYSTEM_VERSION
           npm run build
       - name: Chromatic design-system-react
         working-directory: design-system/react
