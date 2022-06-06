@@ -7,7 +7,10 @@ import PropTypes from 'prop-types';
 export const Input = ({ onData, placeholder, type }) => {
   function onInput(InputEvent){
       console.log("input.onData ", InputEvent);
-      onData(InputEvent.target.value);
+      if(typeof onData==='function'){
+        onData(InputEvent.target.value);
+      }
+      
   }
   return (
     <input
