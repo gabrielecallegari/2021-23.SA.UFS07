@@ -12,7 +12,7 @@
 
 ## Public URL
 
-https://https://overrated-amount.surge.sh/
+https://nutritious-distance.surge.sh/
 
 ## NPM install to setup a simple react app
 
