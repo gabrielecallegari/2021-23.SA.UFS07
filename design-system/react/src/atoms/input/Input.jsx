@@ -30,7 +30,7 @@ Input.propTypes = {
   type: PropTypes.string,
 };
 
-Button.defaultProps = {
+Input.defaultProps = {
   onData: undefined,
   type: "text",
   isValid: undefined,

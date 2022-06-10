@@ -7,7 +7,7 @@ export default {
   title: 'Example/Atoms/Input',
 
   component: Input,
-  argTypes: {
+  argTypes: { 
       
   },
   // More on argTypes: https://storybook.js.org/docs/react/api/argtypes
