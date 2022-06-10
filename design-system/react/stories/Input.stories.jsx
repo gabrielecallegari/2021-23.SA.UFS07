@@ -19,11 +19,23 @@ const Template = (args) => <Input {...args} />;
 export const TextA = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
 TextA.args = {
-  placeholder: "A PLACEHOLDER",
+  id:"text",
+  placeholder: "mio placeholder",
   onData: undefined,
   isValid: undefined,
   type: 'text',
+
 };
 
+export const Radio = Template.bind({});
+// More on args: https://storybook.js.org/docs/react/writing-stories/args
+Radio.args = {
+  id:"radio",
+  placeholder: "A PLACEHOLDER",
+  onData: undefined,
+  isValid: undefined,
+  type: 'radio',
+  label:"This is a label",
+};
 
 
