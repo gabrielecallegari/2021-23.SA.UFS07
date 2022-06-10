@@ -17,7 +17,6 @@ export const Input = ({ onData, placeholder, type }) => {
       onInput={onInput}
       placeholder={placeholder}
       type={type} 
-      
     >
     </input>
   );
