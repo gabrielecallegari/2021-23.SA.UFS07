@@ -29,7 +29,7 @@ Input.propTypes = {
   isValid: PropTypes.bool,
   type: PropTypes.string,
 };
-
+ 
 Input.defaultProps = {
   onData: undefined,
   type: "text",
