@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.13.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.12.0...ds1.13.0) (2022-06-10)
+
+
+### Features
+
+* update version ([91ff343](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/91ff34327736334f49d6c93bfec97d8a688b3e03))
+
 ## [1.12.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.11.0...ds1.12.0) (2022-06-10)
 
 
