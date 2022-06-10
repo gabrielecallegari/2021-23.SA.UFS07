@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.11.0...ds1.12.0) (2022-06-10)
+
+
+### Features
+
+* added author ([fd4e60f](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/fd4e60f1d63623b0977165168e47d0e5def0cef2))
+* added id ([c221234](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/c2212340407a734c4dbc7a5558a841554155fe21))
+* added image ([a0a9432](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/a0a9432ce668a3b30ad3fec85576a558ccee52dc))
+* added image in storybook ([24585d1](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/24585d13963b6a8af982563701a4951ea590b000))
+* added input ([c981b4c](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/c981b4cd7c0e15c2a03f70118fd2cb8248ff1f99))
+* added my link ([59035ca](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/59035ca751fa8ae4955b1d2a52607c2296f7c52a))
+* input goes ([43fcb18](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/43fcb18719054a321beb66366abb202416f76ae9))
+* thanks riccardo, resolved build ([e208aad](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/e208aad327e4a80f766010efbf8b9644ec245db6))
+
+
+### Bug Fixes
+
+* add type button ([717d6aa](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/717d6aa06f53e997da7df3a37004523711129c43))
+* added ([571bb13](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/571bb137190ac410df6c2dd8631333fbdf178064))
+* all ([ca65980](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/ca659805cb37aac21fcedc956a814790f1df5613))
+* delete some space ([2c6aebb](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/2c6aebbb82687857ca5d610d2b7689e4709b9cca))
+* error storybook with input ([560458a](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/560458aab6c8f9f4dc2803d6f1b447a93d4bca10))
+* node version and npm version ([e435c16](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/e435c16899714c300b835aa56709c17eec164e07))
+* release ([814feaf](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/814feafc85b0c5261b0acd9dd3fa72857193b966))
+* src ([728b146](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/728b14658da87b01f93f905a5d9371e7853c6c51))
+
 ## 1.11.0 (2022-05-31)
 
 
