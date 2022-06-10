@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 /**
  * Primary UI component for user interaction
  */
-export const Input = ({ onData, placeholder, type }) => {
+export const Input = ({ onData, placeholder, type,isValid }) => {
   function onInput(InputEvent){
       console.log("input.onData ", InputEvent);
       if(typeof onData==='function'){
@@ -12,13 +12,18 @@ export const Input = ({ onData, placeholder, type }) => {
       }
       
   }
+  const message=isValid? "Valore giusto" : "Valore errato"
   return (
-    <input
-      onInput={onInput}
-      placeholder={placeholder}
-      type={type} 
-    >
-    </input>
+    <React.Fragment>
+      <input
+        onInput={onInput}
+        placeholder={placeholder}
+        type={type} 
+      >
+      </input>
+      
+      {isValid===undefined ? null : message}
+    </React.Fragment>
   );
 };
 
