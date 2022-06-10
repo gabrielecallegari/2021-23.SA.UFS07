@@ -18,5 +18,5 @@ Input.propTypes = {
 };
    
 Input.defaultProps = {
-  scr: undefined,
+  src: undefined,
 };
