@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.9.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/v2.8.0...v2.9.0) (2022-06-10)
+
+
+### Features
+
+* added author ([fd4e60f](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/fd4e60f1d63623b0977165168e47d0e5def0cef2))
+* added input ([c981b4c](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/c981b4cd7c0e15c2a03f70118fd2cb8248ff1f99))
+* added my link ([59035ca](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/59035ca751fa8ae4955b1d2a52607c2296f7c52a))
+
+
+### Bug Fixes
+
+* add type button ([717d6aa](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/717d6aa06f53e997da7df3a37004523711129c43))
+* all ([ca65980](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/ca659805cb37aac21fcedc956a814790f1df5613))
+* error storybook with input ([560458a](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/560458aab6c8f9f4dc2803d6f1b447a93d4bca10))
+* node version and npm version ([e435c16](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/e435c16899714c300b835aa56709c17eec164e07))
+
 ## [2.8.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/v2.7.0...v2.8.0) (2022-05-31)
 
 
