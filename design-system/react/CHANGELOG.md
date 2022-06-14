@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.14.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.13.0...ds1.14.0) (2022-06-14)
+
+
+### Features
+
+* try w11 ([aa99814](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/aa99814163652381ee3c96efcbc6d34662a38dfb))
+* try windows 11 ([34bf6b0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/34bf6b034246c6e9388e92d60139866e505af175))
+* update version ([3088f07](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/3088f076bf27c9e79124362cb9a47eae3a7d965c))
+
+
+### Bug Fixes
+
+* revert ([25248dd](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/25248ddca1a3530750534001f612578a8750fab7))
+
 ## [1.13.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.12.0...ds1.13.0) (2022-06-10)
 
 
