@@ -13,10 +13,7 @@ export const Image = ({ src }) => {
   );
 };
 
-Input.propTypes = {
+Image.propTypes = {
   src: PropTypes.string.isRequired,
 };
-   
-Input.defaultProps = {
-  src: undefined,
-};
+  
