@@ -40,9 +40,9 @@ function App() {
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div class="mx-4 self-center">
-          <h1>Welcome to NddddddddddddddddddddddorthBy</h1>
-          <h2 class="text-yellow-300">A premium in sight and sound</h2>
-          <button>Learn More</button>
+          <h1 class="animate-spin">Welcome to NddddddddddddddddddddddorthBy</h1>
+          <h2 class="text-yellow-300 animate-pulse">A premium in sight and sound</h2>
+          <button class="">Learn More</button>
         </div>
       </div>
 
@@ -50,7 +50,7 @@ function App() {
       <hr/ >
       <br/><br/>
 
-      <div class="flex justify-center bg-gray-300">
+      <div class="flex justify-center bg-gray-300 animate-spin">
         <div class="mx-4 order-last">
           <img src={music} size="100x100" alt="Logo" />;
         </div>
