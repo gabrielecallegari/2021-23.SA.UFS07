@@ -24,8 +24,8 @@ function App() {
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div>
-          <h1>Welcome tdssssssssssso NorthBy</h1>
-          <h2>A premium in sight and sound</h2>
+          <h1 class="transition-colors duration-500 bg-red-700 hover:bg-blue-900">Welcome tdssssssssssso NorthBy</h1>
+          <h2 class="transition-colors duration-150 delay-1000 bg-black hover:bg-blue-900">A premium in sight and sound</h2>
           <button>Learn More</button>
         </div>
       </div>
@@ -40,7 +40,7 @@ function App() {
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div class="mx-4 self-center">
-          <h1 class="animate-spin">Welcome to NddddddddddddddddddddddorthBy</h1>
+          <h1 class="">Welcome to NddddddddddddddddddddddorthBy</h1>
           <h2 class="text-yellow-300 animate-pulse">A premium in sight and sound</h2>
           <button class="">Learn More</button>
         </div>
@@ -50,7 +50,7 @@ function App() {
       <hr/ >
       <br/><br/>
 
-      <div class="flex justify-center bg-gray-300 animate-spin">
+      <div class="flex justify-center bg-gray-300 ">
         <div class="mx-4 order-last">
           <img src={music} size="100x100" alt="Logo" />;
         </div>
