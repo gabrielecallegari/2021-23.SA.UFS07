@@ -24,7 +24,7 @@ function App() {
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div>
-          <h1>Welcome to NorthBy</h1>
+          <h1>Welcome tdssssssssssso NorthBy</h1>
           <h2>A premium in sight and sound</h2>
           <button>Learn More</button>
         </div>
@@ -35,13 +35,13 @@ function App() {
       <br/><br/>
 
 
-      <div class="flex justify-center">
+      <div class="flex justify-center bg-red-700 md:bg-yellow-700 sm:bg-yellow-300">
         <div class="mx-4 order-last">
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div class="mx-4 self-center">
-          <h1>Welcome to NorthBy</h1>
-          <h2>A premium in sight and sound</h2>
+          <h1>Welcome to NddddddddddddddddddddddorthBy</h1>
+          <h2 class="text-yellow-300">A premium in sight and sound</h2>
           <button>Learn More</button>
         </div>
       </div>
