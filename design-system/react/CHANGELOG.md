@@ -2,6 +2,33 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.15.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.14.0...ds1.15.0) (2022-06-28)
+
+
+### Features
+
+* added default tailwind ([952bbe4](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/952bbe4b238ef5c32d62b4ce84ec857efbb6321e))
+* added delay on h2 line 28 ([a2b0145](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/a2b014538e79de99abb54d0056b265170f3470a8))
+* added input in  app jsx ([c4578a8](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/c4578a87f83503f58e79656540be34b34c2bafd4))
+* added package lock and yarn ([c5a24ab](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/c5a24ab0e828b2c064734c53ab3447e9031ba4f8))
+* added paragraph ([ba6bc5f](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/ba6bc5f98884236b5b32223c55f776b49afc7b61))
+* added some animation ([5689b39](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/5689b39bdc352da4c86aa300fb11c007680d5954))
+* added text bold ([550fb4d](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/550fb4d8fdd522fb4e8821790feae0bacfecf6d8))
+* added text components ([0b5d047](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/0b5d047f09d3e26f0ff5dabee847453b953e215e))
+* added text italic ([ba4db88](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/ba4db88e079615fe64efadb7b4f1ffadfafa009d))
+* downloaded dependencies ([0f54c3f](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/0f54c3f2da88e80ac4c85132610a7228293171ea))
+* modified color ([061dfc6](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/061dfc66d72cb279847ceaf24b05dfa1debfc54f))
+* modify app js ([c45e2cc](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/c45e2cc4af0a35dabc1361257bfd2af99aa340ed))
+* modify babel rc ([137f785](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/137f785176be291487cca20ccf41ed73c4c74f92))
+* removed border ([5c521d2](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/5c521d2969bf9de85bb30f19015ff18bf53bbfbb))
+* tailwind css book samples ([47dd36f](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/47dd36f5bcff30adb4798c9ed11bf9a324fe8b20))
+
+
+### Bug Fixes
+
+* image proptypes ([313a31f](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/313a31f4df613d517e6ddd01ddd4270d8843aab7))
+* paragraph with added message ([971a1ac](https://github.com/gabrielecallegari/2021-23.SA.UFS07/commit/971a1ac7a69c3a5625df5475b072027248df9973))
+
 ## [1.14.0](https://github.com/gabrielecallegari/2021-23.SA.UFS07/compare/ds1.13.0...ds1.14.0) (2022-06-14)
 
 
