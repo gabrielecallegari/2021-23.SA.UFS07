@@ -29,8 +29,9 @@
     "webpack-dev-server": "^4.8.1"
   },
   "dependencies": {
+    "@emotion/react": "^11.9.3",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "test-1-callegari": "^1.14.0"
+    "test-1-callegari": "^1.15.0"
   }
 }
