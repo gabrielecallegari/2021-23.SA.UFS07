@@ -55,7 +55,7 @@ function App() {
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div class="mx-4 self-center text-center">
-          <h1 class="text-6xl font-bold text-blue-700">Welcome to NorthBy</h1>
+          <h1 class="text-6xl font-bold text-blue-700 transform transition duration-1000 hover:scale-110 hover:shadow-lg">kjdshfuakjdfaljkdfjc</h1>
           <h2 class="text-3xl font-semibold text-blue-300">
             A premium in sight and sound
           </h2>
